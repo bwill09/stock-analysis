@@ -29,6 +29,10 @@ There are benefits to refactoring codes such as; it speeds optimization, which a
 
 easier to read and understand: <img width="1440" alt="Refactored Array" src="https://user-images.githubusercontent.com/106555873/177158695-839d60d3-efcb-4567-9f29-666d5fa80b79.png">
 
+In contrary, refactoring can be time consuming and may leave you in limbo where you get confused and feel lost. I experienced this while refactoring to increase the ticker index, and output arrays, see below respectively:
 
-In contrary, refactoring can be time consuming and may leave you in limbo where you get confused and feel lost. I experienced this while refactoring to increase the ticker index, and output arrays. I spent good amount of time feeling lost. Eventually, my script ran faster and was simpler to understand, with the help from the AskBCS Learning Assistant platform. 
-easier to read and understand: , thus easier to maintain, too. In contrary, refactoring can be time consuming and may leave you in limbo where you get confused and feel lost. I experienced this while refactoring to increase the ticker index, and output arrays. I spent good amount of time feeling lost. Eventually, my script ran faster and was simpler to understand, with the help from the AskBCS Learning Assistant platform. 
+
+<img width="1440" alt="Refactored Tickers" src="https://user-images.githubusercontent.com/106555873/177159871-e6b26744-10fa-4e2b-9c48-a7631489e6f0.png">
+<img width="1440" alt="Refactored Array" src="https://user-images.githubusercontent.com/106555873/177159907-df32ac1a-4b27-4e7b-9bea-1855338c6017.png">
+
+I spent good amount of time feeling lost. Eventually, my script ran faster and was simpler to understand.
