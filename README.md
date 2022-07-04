@@ -15,7 +15,7 @@ In 2018 ‘Daqo’ plunged 63 %. This suggest it would have been a bad investmen
 
 #### Summary 
 
-There are benefits to refactoring codes such as; it speeds optimization, which allow code execution to run faster (see original vs refactored run tume:
+There are benefits to refactoring codes such as; it speeds optimization, which allow code execution to run faster. See original vs refactored run tume:
 
 <img width="1440" alt="2017 Original Execution Time" src="https://user-images.githubusercontent.com/106555873/177158525-9e463e9c-c8a8-4dc1-88a0-9fa5598c9511.png">
 
